@@ -1,16 +1,33 @@
-# React + Vite
+# Cloud-Based Online Bus Ticketing System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application for booking and managing bus tickets online.
 
-Currently, two official plugins are available:
+## Features
+- User authentication and registration
+- Search and filter available bus routes
+- Seat selection and booking
+- Online payment integration
+- Booking history and ticket management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Vite
+- **Backend:** Node.js, Express
+- **Database:** SupaBase
+- **Deployment:** Cloud platform
 
-## React Compiler
+## How to Run
+1. Clone the repo
+2. npm install
+3. npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Screenshots
+<img width="1341" height="616" alt="image" src="https://github.com/user-attachments/assets/36ac505a-dafc-480a-b23f-3e45ced06b98" />
+<img width="1337" height="614" alt="image" src="https://github.com/user-attachments/assets/dfef60fc-3e1d-4fe1-87c3-fe2a5261cb11" />
+<img width="1039" height="614" alt="image" src="https://github.com/user-attachments/assets/b21185f4-c1d4-40f7-aa9b-57b41dd599a0" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## What I Learned
+- Full-stack MERN development
+- Cloud deployment
+- User authentication
